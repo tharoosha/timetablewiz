@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"03a570f263a7473aaf5e30d957cc2592","collectionName":"days_of_operation","type":"collection"}
