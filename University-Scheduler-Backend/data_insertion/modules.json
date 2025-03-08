@@ -1,0 +1,242 @@
+[
+  {
+    "code": "CS101",
+    "name": "IntroCS",
+    "long_name": "Introduction to Computer Science",
+    "description": "An introductory course on the fundamentals of computer science."
+  },
+  {
+    "code": "CS102",
+    "name": "DiscreteMath",
+    "long_name": "Discrete Mathematics",
+    "description": "A course on logic, set theory, combinatorics, and graph theory."
+  },
+  {
+    "code": "CS103",
+    "name": "ProgFund",
+    "long_name": "Programming Fundamentals",
+    "description": "A beginner's guide to programming concepts and techniques."
+  },
+  {
+    "code": "CS104",
+    "name": "CompArch",
+    "long_name": "Computer Architecture",
+    "description": "Introduction to computer hardware, including CPU, memory, and I/O systems."
+  },
+  {
+    "code": "CS105",
+    "name": "DataStruct",
+    "long_name": "Data Structures",
+    "description": "An overview of basic data structures like arrays, linked lists, and trees."
+  },
+  {
+    "code": "CS201",
+    "name": "AlgDesign",
+    "long_name": "Algorithm Design",
+    "description": "A course on designing and analyzing algorithms."
+  },
+  {
+    "code": "CS202",
+    "name": "OOP",
+    "long_name": "Object-Oriented Programming",
+    "description": "An introduction to OOP concepts like classes, inheritance, and polymorphism."
+  },
+  {
+    "code": "CS203",
+    "name": "Databases",
+    "long_name": "Introduction to Databases",
+    "description": "A course on relational database concepts and SQL."
+  },
+  {
+    "code": "CS204",
+    "name": "CompNet",
+    "long_name": "Computer Networks",
+    "description": "Introduction to network protocols, topologies, and communication models."
+  },
+  {
+    "code": "CS205",
+    "name": "SoftwareEng",
+    "long_name": "Software Engineering",
+    "description": "An overview of software development methodologies and practices."
+  },
+  {
+    "code": "CS301",
+    "name": "OS",
+    "long_name": "Operating Systems",
+    "description": "A course on operating system principles, processes, and memory management."
+  },
+  {
+    "code": "CS302",
+    "name": "WebDev",
+    "long_name": "Web Development",
+    "description": "A practical introduction to front-end and back-end web development."
+  },
+  {
+    "code": "CS303",
+    "name": "AI",
+    "long_name": "Artificial Intelligence",
+    "description": "Introduction to AI concepts, machine learning, and neural networks."
+  },
+  {
+    "code": "CS304",
+    "name": "CloudComp",
+    "long_name": "Cloud Computing",
+    "description": "A course on cloud architecture, virtualization, and distributed systems."
+  },
+  {
+    "code": "CS305",
+    "name": "HumanCompInt",
+    "long_name": "Human-Computer Interaction",
+    "description": "Exploration of design principles and usability testing for user interfaces."
+  },
+  {
+    "code": "CS401",
+    "name": "CyberSec",
+    "long_name": "Cybersecurity",
+    "description": "An introduction to security principles and practices in computing."
+  },
+  {
+    "code": "CS402",
+    "name": "MobileDev",
+    "long_name": "Mobile Application Development",
+    "description": "A course on building mobile apps for Android and iOS platforms."
+  },
+  {
+    "code": "CS403",
+    "name": "DataSci",
+    "long_name": "Data Science",
+    "description": "A hands-on course on data analysis, visualization, and machine learning."
+  },
+  {
+    "code": "CS404",
+    "name": "GameDev",
+    "long_name": "Game Development",
+    "description": "Introduction to the development of interactive games using modern engines."
+  },
+  {
+    "code": "CS405",
+    "name": "Capstone",
+    "long_name": "Capstone Project",
+    "description": "A final year project synthesizing concepts learned throughout the program."
+  },
+  {
+    "code": "CS111",
+    "name": "CompLog",
+    "long_name": "Computational Logic",
+    "description": "Introduction to formal logic and its applications in computation."
+  },
+  {
+    "code": "CS112",
+    "name": "CompTheo",
+    "long_name": "Computation Theory",
+    "description": "Study of Turing machines, complexity theory, and automata."
+  },
+  {
+    "code": "CS113",
+    "name": "NumMeth",
+    "long_name": "Numerical Methods",
+    "description": "Introduction to numerical techniques for solving mathematical problems."
+  },
+  {
+    "code": "CS114",
+    "name": "ParallelComp",
+    "long_name": "Parallel Computing",
+    "description": "A course on parallel algorithms and multicore processing."
+  },
+  {
+    "code": "CS115",
+    "name": "Graphics",
+    "long_name": "Computer Graphics",
+    "description": "Introduction to graphical rendering and visual computing techniques."
+  },
+  {
+    "code": "CS211",
+    "name": "Cryptography",
+    "long_name": "Cryptography",
+    "description": "A course on encryption, decryption, and secure communication."
+  },
+  {
+    "code": "CS212",
+    "name": "InfoRetrieval",
+    "long_name": "Information Retrieval",
+    "description": "Study of techniques for searching and retrieving information from large datasets."
+  },
+  {
+    "code": "CS213",
+    "name": "BigData",
+    "long_name": "Big Data",
+    "description": "A course on handling and analyzing large-scale datasets."
+  },
+  {
+    "code": "CS214",
+    "name": "IoT",
+    "long_name": "Internet of Things",
+    "description": "Introduction to IoT technologies and their applications."
+  },
+  {
+    "code": "CS215",
+    "name": "SoftwareTesting",
+    "long_name": "Software Testing",
+    "description": "A practical course on software testing techniques and tools."
+  },
+  {
+    "code": "CS311",
+    "name": "BlockChain",
+    "long_name": "Blockchain Technology",
+    "description": "Introduction to blockchain and its applications in various domains."
+  },
+  {
+    "code": "CS312",
+    "name": "CompVision",
+    "long_name": "Computer Vision",
+    "description": "A course on image processing and object recognition techniques."
+  },
+  {
+    "code": "CS313",
+    "name": "AdvDB",
+    "long_name": "Advanced Databases",
+    "description": "Study of NoSQL databases and advanced query techniques."
+  },
+  {
+    "code": "CS314",
+    "name": "DevOps",
+    "long_name": "DevOps",
+    "description": "Introduction to continuous integration and deployment practices."
+  },
+  {
+    "code": "CS315",
+    "name": "BioInfo",
+    "long_name": "Bioinformatics",
+    "description": "Study of computational methods in biological data analysis."
+  },
+  {
+    "code": "CS411",
+    "name": "Robotics",
+    "long_name": "Robotics",
+    "description": "An introduction to robotics and control systems."
+  },
+  {
+    "code": "CS412",
+    "name": "NLP",
+    "long_name": "Natural Language Processing",
+    "description": "A course on computational linguistics and language modeling."
+  },
+  {
+    "code": "CS413",
+    "name": "QuantumComp",
+    "long_name": "Quantum Computing",
+    "description": "Introduction to quantum algorithms and quantum mechanics in computing."
+  },
+  {
+    "code": "CS414",
+    "name": "EthicsAI",
+    "long_name": "Ethics in AI",
+    "description": "Study of ethical implications of AI systems in society."
+  },
+  {
+    "code": "CS415",
+    "name": "AdvProg",
+    "long_name": "Advanced Programming",
+    "description": "A deep dive into advanced programming paradigms and languages."
+  }
+]

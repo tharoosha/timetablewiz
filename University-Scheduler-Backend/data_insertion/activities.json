@@ -1,0 +1,866 @@
+[
+    {
+        "code": "AC-001",
+        "name": "Introduction to Computer Science Lecture",
+        "subject": "CS101",
+        "teacher_ids": [
+            "FA0000001"
+        ],
+        "subgroup_ids": [
+            "SEM101"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-002",
+        "name": "Programming Fundamentals Lecture",
+        "subject": "CS103",
+        "teacher_ids": [
+            "FA0000001"
+        ],
+        "subgroup_ids": [
+            "SEM101"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-003",
+        "name": "Programming Fundamentals Tutorial",
+        "subject": "CS103",
+        "teacher_ids": [
+            "FA0000001"
+        ],
+        "subgroup_ids": [
+            "SEM101"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-004",
+        "name": "Programming Fundamentals Lab",
+        "subject": "CS103",
+        "teacher_ids": [
+            "FA0000001"
+        ],
+        "subgroup_ids": [
+            "SEM101"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-005",
+        "name": "Computational Logic Lecture",
+        "subject": "CS111",
+        "teacher_ids": [
+            "FA0000004"
+        ],
+        "subgroup_ids": [
+            "SEM101"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-006",
+        "name": "Computation Theory Lecture",
+        "subject": "CS112",
+        "teacher_ids": [
+            "FA0000003"
+        ],
+        "subgroup_ids": [
+            "SEM101"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-007",
+        "name": "Numerical Methods Lecture",
+        "subject": "CS113",
+        "teacher_ids": [
+            "FA0000004"
+        ],
+        "subgroup_ids": [
+            "SEM101"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-008",
+        "name": "Discrete Mathematics Lecture",
+        "subject": "CS102",
+        "teacher_ids": [
+            "FA0000001"
+        ],
+        "subgroup_ids": [
+            "SEM102"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-009",
+        "name": "Computer Architecture Lecture",
+        "subject": "CS104",
+        "teacher_ids": [
+            "FA0000002"
+        ],
+        "subgroup_ids": [
+            "SEM102"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-010",
+        "name": "Data Structures Lecture",
+        "subject": "CS105",
+        "teacher_ids": [
+            "FA0000002"
+        ],
+        "subgroup_ids": [
+            "SEM102"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-011",
+        "name": "Data Structures Tutorial",
+        "subject": "CS105",
+        "teacher_ids": [
+            "FA0000002"
+        ],
+        "subgroup_ids": [
+            "SEM102"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-012",
+        "name": "Data Structures Lab",
+        "subject": "CS105",
+        "teacher_ids": [
+            "FA0000002"
+        ],
+        "subgroup_ids": [
+            "SEM102"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-013",
+        "name": "Computer Graphics Lecture",
+        "subject": "CS115",
+        "teacher_ids": [
+            "FA0000018"
+        ],
+        "subgroup_ids": [
+            "SEM102"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-014",
+        "name": "Parallel Computing Lecture",
+        "subject": "CS114",
+        "teacher_ids": [
+            "FA0000009"
+        ],
+        "subgroup_ids": [
+            "SEM102"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-015",
+        "name": "Algorithm Design Lecture",
+        "subject": "CS201",
+        "teacher_ids": [
+            "FA0000003"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-016",
+        "name": "Object-Oriented Programming Lecture",
+        "subject": "CS202",
+        "teacher_ids": [
+            "FA0000005"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-017",
+        "name": "Object-Oriented Programming Tutorial",
+        "subject": "CS202",
+        "teacher_ids": [
+            "FA0000005"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-018",
+        "name": "Object-Oriented Programming Lab",
+        "subject": "CS202",
+        "teacher_ids": [
+            "FA0000005"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-019",
+        "name": "Introduction to Databases Lecture",
+        "subject": "CS203",
+        "teacher_ids": [
+            "FA0000005"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-020",
+        "name": "Introduction to Databases Tutorial",
+        "subject": "CS203",
+        "teacher_ids": [
+            "FA0000005"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-021",
+        "name": "Introduction to Databases Lab",
+        "subject": "CS203",
+        "teacher_ids": [
+            "FA0000005"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-022",
+        "name": "Cryptography Lecture",
+        "subject": "CS211",
+        "teacher_ids": [
+            "FA0000013"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-023",
+        "name": "Computation Theory Lecture",
+        "subject": "CS112",
+        "teacher_ids": [
+            "FA0000003"
+        ],
+        "subgroup_ids": [
+            "SEM201"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-024",
+        "name": "Computer Networks Lecture",
+        "subject": "CS204",
+        "teacher_ids": [
+            "FA0000006"
+        ],
+        "subgroup_ids": [
+            "SEM202"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-025",
+        "name": "Computer Networks Tutorial",
+        "subject": "CS204",
+        "teacher_ids": [
+            "FA0000006"
+        ],
+        "subgroup_ids": [
+            "SEM202"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-026",
+        "name": "Computer Networks Lab",
+        "subject": "CS204",
+        "teacher_ids": [
+            "FA0000006"
+        ],
+        "subgroup_ids": [
+            "SEM202"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-027",
+        "name": "Software Engineering Lecture",
+        "subject": "CS205",
+        "teacher_ids": [
+            "FA0000016"
+        ],
+        "subgroup_ids": [
+            "SEM202"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-028",
+        "name": "Information Retrieval Lecture",
+        "subject": "CS212",
+        "teacher_ids": [
+            "FA0000019"
+        ],
+        "subgroup_ids": [
+            "SEM202"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-029",
+        "name": "Big Data Lecture",
+        "subject": "CS213",
+        "teacher_ids": [
+            "FA0000019"
+        ],
+        "subgroup_ids": [
+            "SEM202"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-030",
+        "name": "Internet of Things Lecture",
+        "subject": "CS214",
+        "teacher_ids": [
+            "FA0000020"
+        ],
+        "subgroup_ids": [
+            "SEM202"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-031",
+        "name": "Operating Systems Lecture",
+        "subject": "CS301",
+        "teacher_ids": [
+            "FA0000008"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-032",
+        "name": "Operating Systems Tutorial",
+        "subject": "CS301",
+        "teacher_ids": [
+            "FA0000008"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-033",
+        "name": "Operating Systems Lab",
+        "subject": "CS301",
+        "teacher_ids": [
+            "FA0000008"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-034",
+        "name": "Web Development Lecture",
+        "subject": "CS302",
+        "teacher_ids": [
+            "FA0000006"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-035",
+        "name": "Web Development Tutorial",
+        "subject": "CS302",
+        "teacher_ids": [
+            "FA0000006"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-036",
+        "name": "Web Development Lab",
+        "subject": "CS302",
+        "teacher_ids": [
+            "FA0000006"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-037",
+        "name": "Artificial Intelligence Lecture",
+        "subject": "CS303",
+        "teacher_ids": [
+            "FA0000010"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-038",
+        "name": "Artificial Intelligence Tutorial",
+        "subject": "CS303",
+        "teacher_ids": [
+            "FA0000010"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-039",
+        "name": "Artificial Intelligence Lab",
+        "subject": "CS303",
+        "teacher_ids": [
+            "FA0000010"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-040",
+        "name": "Blockchain Technology Lecture",
+        "subject": "CS311",
+        "teacher_ids": [
+            "FA0000014"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-041",
+        "name": "Blockchain Technology Tutorial",
+        "subject": "CS311",
+        "teacher_ids": [
+            "FA0000014"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-042",
+        "name": "Blockchain Technology Lab",
+        "subject": "CS311",
+        "teacher_ids": [
+            "FA0000014"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-043",
+        "name": "Computer Vision Lecture",
+        "subject": "CS312",
+        "teacher_ids": [
+            "FA0000011"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-044",
+        "name": "Computer Vision Tutorial",
+        "subject": "CS312",
+        "teacher_ids": [
+            "FA0000011"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-045",
+        "name": "Computer Vision Lab",
+        "subject": "CS312",
+        "teacher_ids": [
+            "FA0000011"
+        ],
+        "subgroup_ids": [
+            "SEM301"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-046",
+        "name": "Cloud Computing Lecture",
+        "subject": "CS304",
+        "teacher_ids": [
+            "FA0000016"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-047",
+        "name": "Cloud Computing Tutorial",
+        "subject": "CS304",
+        "teacher_ids": [
+            "FA0000016"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-048",
+        "name": "Cloud Computing Lab",
+        "subject": "CS304",
+        "teacher_ids": [
+            "FA0000016"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-049",
+        "name": "Human-Computer Interaction Lecture",
+        "subject": "CS305",
+        "teacher_ids": [
+            "FA0000017"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-050",
+        "name": "Human-Computer Interaction Tutorial",
+        "subject": "CS305",
+        "teacher_ids": [
+            "FA0000017"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-051",
+        "name": "Human-Computer Interaction Lab",
+        "subject": "CS305",
+        "teacher_ids": [
+            "FA0000017"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-052",
+        "name": "Advanced Databases Lecture",
+        "subject": "CS313",
+        "teacher_ids": [
+            "FA0000020"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-053",
+        "name": "Advanced Databases Tutorial",
+        "subject": "CS313",
+        "teacher_ids": [
+            "FA0000020"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-054",
+        "name": "Advanced Databases Lab",
+        "subject": "CS313",
+        "teacher_ids": [
+            "FA0000020"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-055",
+        "name": "DevOps Lecture",
+        "subject": "CS314",
+        "teacher_ids": [
+            "FA0000007"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-056",
+        "name": "DevOps Tutorial",
+        "subject": "CS314",
+        "teacher_ids": [
+            "FA0000007"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-057",
+        "name": "DevOps Lab",
+        "subject": "CS314",
+        "teacher_ids": [
+            "FA0000007"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-058",
+        "name": "Bioinformatics Lecture",
+        "subject": "CS315",
+        "teacher_ids": [
+            "FA0000012"
+        ],
+        "subgroup_ids": [
+            "SEM302"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-059",
+        "name": "Cybersecurity Lecture",
+        "subject": "CS401",
+        "teacher_ids": [
+            "FA0000013"
+        ],
+        "subgroup_ids": [
+            "SEM401"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-060",
+        "name": "Mobile Application Development Lecture",
+        "subject": "CS402",
+        "teacher_ids": [
+            "FA0000017"
+        ],
+        "subgroup_ids": [
+            "SEM401"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-061",
+        "name": "Data Science Lecture",
+        "subject": "CS403",
+        "teacher_ids": [
+            "FA0000010"
+        ],
+        "subgroup_ids": [
+            "SEM401"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-062",
+        "name": "Robotics Lecture",
+        "subject": "CS411",
+        "teacher_ids": [
+            "FA0000014"
+        ],
+        "subgroup_ids": [
+            "SEM401"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-063",
+        "name": "Quantum Computing Lecture",
+        "subject": "CS413",
+        "teacher_ids": [
+            "FA0000012"
+        ],
+        "subgroup_ids": [
+            "SEM401"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-064",
+        "name": "Game Development Lecture",
+        "subject": "CS404",
+        "teacher_ids": [
+            "FA0000018"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-065",
+        "name": "Capstone Project Lecture",
+        "subject": "CS405",
+        "teacher_ids": [
+            "FA0000015"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-066",
+        "name": "Natural Language Processing Lecture",
+        "subject": "CS412",
+        "teacher_ids": [
+            "FA0000011"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-067",
+        "name": "Natural Language Processing Tutorial",
+        "subject": "CS412",
+        "teacher_ids": [
+            "FA0000011"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-068",
+        "name": "Natural Language Processing Lab",
+        "subject": "CS412",
+        "teacher_ids": [
+            "FA0000011"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 1
+    },
+    {
+        "code": "AC-069",
+        "name": "Ethics in AI Lecture",
+        "subject": "CS414",
+        "teacher_ids": [
+            "FA0000015"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-070",
+        "name": "Advanced Programming Lecture",
+        "subject": "CS415",
+        "teacher_ids": [
+            "FA0000021"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-071",
+        "name": "Advanced Programming Tutorial",
+        "subject": "CS415",
+        "teacher_ids": [
+            "FA0000021"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 2
+    },
+    {
+        "code": "AC-072",
+        "name": "Advanced Programming Lab",
+        "subject": "CS415",
+        "teacher_ids": [
+            "FA0000021"
+        ],
+        "subgroup_ids": [
+            "SEM402"
+        ],
+        "duration": 1
+    }
+]
