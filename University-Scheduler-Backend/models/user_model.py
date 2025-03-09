@@ -63,7 +63,7 @@ class UserCreate(BaseModel):
     position: str
     role: str
     year: Optional[int] = None  
-    subgroup: Optional[str] = None
+    semester: Optional[str] = None
     faculty: Optional[str] = None
 
 

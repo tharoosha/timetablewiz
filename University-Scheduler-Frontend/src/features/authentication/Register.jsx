@@ -66,7 +66,12 @@ function Register() {
   };
 
   const handleSubmit = async (values) => {
-    console.log(values);
+    values.role = role;
+    
+    console.log(values.role);
+    if(values.role === "student") {
+      values.position = "Undergraduate";
+    };
     if (values.role === "faculty") {
       delete values.faculty;
       delete values.year;
@@ -269,14 +274,14 @@ function Register() {
 
                   <div className="mb-4">
                     <Form.Item
-                      label={<span className="text-gwhite">Subgroup</span>}
-                      name="subgroup"
+                      label={<span className="text-gwhite">Semester</span>}
+                      name="semester"
                       rules={[
                         { required: true, message: "Please select a subgroup" },
                       ]}
                     >
                       <Select
-                        placeholder="Select Subgroup"
+                        placeholder="Select Semester"
                         options={subgroupOptions}
                       />
                     </Form.Item>

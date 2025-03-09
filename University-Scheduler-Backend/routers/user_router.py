@@ -41,8 +41,10 @@ async def register_user(user: UserCreate):
         if not year:
             raise HTTPException(status_code=404, detail="Year not found")
         
-        if user.semester and user.semester not in ["semester_1", "semester_2"]:
-            raise HTTPException(status_code=400, detail="Invalid semester specified")
+        # if user.semester and user.semester not in ["semester_1", "semester_2"]:
+        #     raise HTTPException(status_code=400, detail="Invalid semester specified")
+        if not user.semester:
+            raise HTTPException(status_code=400, detail="Semester must be specified")
     user_dict = user.dict()
     user_dict["hashed_password"] = hash_password(user_dict.pop("password"))
     result = db["Users"].insert_one(user_dict)

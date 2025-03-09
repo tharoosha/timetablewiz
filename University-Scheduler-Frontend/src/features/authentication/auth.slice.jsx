@@ -53,6 +53,7 @@ const authSlice = createSlice({
         state.error = action.payload;
         state.isAuthenticated = false;
       })
+
       .addCase(loginUser.pending, (state) => {
         state.loading = true;
       })
@@ -67,6 +68,7 @@ const authSlice = createSlice({
         state.error = action.payload;
         state.isAuthenticated = false;
       })
+
       .addCase(getFaculties.pending, (state) => {
         state.loading = true;
       })
@@ -78,6 +80,7 @@ const authSlice = createSlice({
         state.loading = false;
         state.error = action.payload;
       })
+
       .addCase(getYears.pending, (state) => {
         state.loading = true;
       })
@@ -89,6 +92,7 @@ const authSlice = createSlice({
         state.loading = false;
         state.error = action.payload;
       })
+
       .addCase(addFaculty.pending, (state) => {
         state.loading = true;
       })
@@ -100,6 +104,7 @@ const authSlice = createSlice({
         state.loading = false;
         state.error = action.payload;
       })
+
       .addCase(updateFaculties.pending, (state) => {
         state.loading = true;
       })
@@ -111,6 +116,7 @@ const authSlice = createSlice({
         state.loading = false;
         state.error = action.payload;
       })
+      
       .addCase(deleteFaculties.pending, (state) => {
         state.loading = true;
       })
